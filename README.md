@@ -1,6 +1,6 @@
 # Anécdote
 
-An App where you can store/upload all your experiences in one place . You can upload all the pics with hashtags and interesting message .
+An App where you can store/upload all your experiences in one place . You can upload all the pics with hashtags and interesting message . You can Create, Update,Delete,Like and Comment also !!!
 
 <img width="1440" alt="Screenshot 2022-10-12 at 1 29 45 AM" src="https://user-images.githubusercontent.com/84660976/195188418-72701912-12fe-4287-9c8f-b13130e8ecdc.png">
 
