@@ -16,5 +16,7 @@ An App where you can store/upload all your experiences in one place . You can up
 
 ## Setup:
 - run ```npm i && npm start``` for both client and server side to start the app
-
+  
+## Or visit:
+- https://homepros.vercel.app/
 
